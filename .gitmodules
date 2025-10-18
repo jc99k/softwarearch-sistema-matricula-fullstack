@@ -1,0 +1,6 @@
+[submodule "softwarearch-sistema-matricula-backend"]
+	path = softwarearch-sistema-matricula-backend
+	url = https://github.com/jc99k/softwarearch-sistema-matricula-backend
+[submodule "softwarearch-sistema-matricula-frontend"]
+	path = softwarearch-sistema-matricula-frontend
+	url = https://github.com/jc99k/softwarearch-sistema-matricula-frontend
